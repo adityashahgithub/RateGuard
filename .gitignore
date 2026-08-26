@@ -3,7 +3,9 @@ __pycache__/
 *.py[cod]
 .venv/
 venv/
+vendor/
 .env
+.pytest_cache/
 
 # Node
 node_modules/
